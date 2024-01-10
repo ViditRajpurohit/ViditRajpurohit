@@ -7,6 +7,8 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <br/>
+<img align="right" alt ="Coding" height="250" width="350" style="padding-bottom:10px;" src="https://github.com/ViditRajpurohit/ViditRajpurohit/blob/main/Image.png"> 
+
 
 <div align="center">
  
