@@ -14,7 +14,7 @@
  
  🔭 I’m currently studying in **Poornima University , Jaipur**
  
- 🌱 I’m currently learning **DSA with C++**
+ 🌱 I’m currently learning **MERN**
 
 
 
